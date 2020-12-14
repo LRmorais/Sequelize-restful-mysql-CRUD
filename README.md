@@ -1,0 +1,1 @@
+### Uma Api rest em node js utilizando express js e sequelize para realizar um crud basico.
