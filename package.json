@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/LRmorais/crud-rest-api/issues"
   },
-  "homepage": "https://github.com/LRmorais/crud-rest-api#readme"
+  "homepage": "https://github.com/LRmorais/crud-rest-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http-status": "^1.5.0",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  }
 }
