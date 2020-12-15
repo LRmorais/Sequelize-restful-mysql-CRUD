@@ -32,4 +32,14 @@ const status = require('http-status');
         })
         .catch(error => next(error));
     }
+// método get para retornar todos os dados da tabela
+    exports.SearchAll = (req, res, next) => {
+        Usuario.findAll()
+        .then(usuario => {
+            if(usuario){
+                res.status(status.OK).send(usuario);
+            }
+        })
+        .catch(error => next(error));
+    }
     
