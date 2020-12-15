@@ -1,7 +1,7 @@
 // chama os metodos do sequelize e armazenando na variavel Sequelize
 const Sequelize = require('sequelize');
 // importa os atributos definidos em database.js
-const sequelize = require('../database.js');
+const sequelize = require('../database/database.js');
 // criação de tabela na base de dados // ps precisa ter criado a base de dados
 const Usuario = sequelize.define("usuario",{
     //definir colunas e atributos
