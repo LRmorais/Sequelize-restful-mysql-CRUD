@@ -13,9 +13,9 @@ const Usuario = sequelize.define("usuario",{
     },
     nome: {
         allowNull: false,
-        type: Sequelize.STRING(100),
+        type: Sequelize.STRING(100), //define tipo string com tamanho de 100 caracteres
         validate: {
-            len: [3,100]
+            len: [3,100] // validação de quantidade minima e maxima de caracteres
         }
     },
     salario: {
