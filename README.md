@@ -18,3 +18,5 @@
 - [Node JS](https://nodejs.org/en/about/) :heavy_check_mark:
 - [Express JS](https://expressjs.com/pt-br/) :heavy_check_mark:
 - [Sequelize](https://sequelize.org/) :heavy_check_mark:
+
+> Status do Projeto: Concluido :heavy_check_mark:
