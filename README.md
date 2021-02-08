@@ -6,6 +6,8 @@
 ##  Descrição do projeto 💻
 <p align="justify"> Desenvolver uma api capaz de realizar um CRUD (Create, Read, Update, Delete) básico para cadastro de usuários no banco de dados</p>
 
+> Status do Projeto: Concluido :heavy_check_mark:
+
 ### Funcionalidades :rocket:
 
 - [X] Cadastro de usuários :man:
@@ -19,4 +21,3 @@
 - [Express JS](https://expressjs.com/pt-br/) :heavy_check_mark:
 - [Sequelize](https://sequelize.org/) :heavy_check_mark:
 
-> Status do Projeto: Concluido :heavy_check_mark:
