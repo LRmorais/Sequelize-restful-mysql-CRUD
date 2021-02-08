@@ -25,10 +25,13 @@
 ```
 # No terminal, clone o projeto
 $ git clone https://github.com/LRmorais/crud-rest-api.git
+
 # Entre na pasta do projeto
 $ cd crud-rest-api
+
 # Instale as dependências
 $ npm install ou yarn install
+
 # Execute a aplicação
 $ npm index.js ou yarn index.js 
 ```
