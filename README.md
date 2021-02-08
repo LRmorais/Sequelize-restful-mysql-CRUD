@@ -21,3 +21,4 @@
 - [Express JS](https://expressjs.com/pt-br/) :heavy_check_mark:
 - [Sequelize](https://sequelize.org/) :heavy_check_mark:
 
+`git clone `
