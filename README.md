@@ -3,6 +3,7 @@
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=ExpressJS&message=framework&color=green&style=for-the-badge&logo=node.js" style="display: inline;"/>
     <img src="https://img.shields.io/static/v1?label=Sequelize&message=framework&color=blue&style=for-the-badge&logo=node.js" style="display: inline;"/>
+    <img src="https://img.shields.io/static/v1?label=MySQL&message=Database&color=blue&style=for-the-badge&logo=#4479A1" style="display: inline;"/>
 </p>
 
 ##  Descrição do projeto 💻
@@ -46,7 +47,7 @@ $ npm index.js ou yarn index.js
 
 Após o merge de sua solicitação pull request, você pode excluir seu branch.
 
-Relate algum bug [here]().
+Relate algum bug [here](https://github.com/LRmorais/Sequelize-restfull-mysql-CRUD/i).
 
 ## 📝 License
 
