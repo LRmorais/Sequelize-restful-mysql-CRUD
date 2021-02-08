@@ -39,9 +39,9 @@ $ npm install ou yarn install
 # Execute a aplicação
 $ npm index.js ou yarn index.js 
 ```
-##  Como contribuir 🤔
+##  Como contribuir :octocat:
 1. Fork este repositório;
-2. Crie uma branch cok sua feature: **`git checkout -b my-feature`**;
+2. Crie uma branch com sua feature: **`git checkout -b my-feature`**;
 3. Comite suas mudanças: **`git commit -m 'feat: My new feature'`**;
 4. Suba as alterações para sua branch: **`git push origin my-feature`**.
 
