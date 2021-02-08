@@ -8,6 +8,12 @@
 
 ### Funcionalidades  
 
-- [X] Cadastro de usuarios
-- [X] Listagem de usuarios
-- [X] Busca de 1 usuario especifico
+- [X] Cadastro de usuários 
+- [X] Listagem de usuários
+- [X] Busca de 1 usuário especifico
+- [X] Atualiza 1 usuário especifico
+- [X] Deleta 1 usuário especifico
+
+### Tecnologias
+- [Node JS](https://nodejs.org/en/about/)
+- 
