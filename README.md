@@ -6,14 +6,15 @@
 ##  Descrição do projeto 💻
 <p align="justify"> Desenvolver uma api capaz de realizar um CRUD (Create, Read, Update, Delete) básico para cadastro de usuários no banco de dados</p>
 
-### Funcionalidades  
+### Funcionalidades :rocket:
 
-- [X] Cadastro de usuários 
-- [X] Listagem de usuários
-- [X] Busca de 1 usuário especifico
-- [X] Atualiza 1 usuário especifico
-- [X] Deleta 1 usuário especifico
+- [X] Cadastro de usuários :man:
+- [X] Listagem de usuários :family:
+- [X] Busca de 1 usuário especifico :raising_hand:
+- [X] Atualiza 1 usuário especifico :recycle:
+- [X] Deleta 1 usuário especifico :x:
 
 ### Tecnologias
-- [Node JS](https://nodejs.org/en/about/)
-- 
+- [Node JS](https://nodejs.org/en/about/) :heavy_check_mark:
+- [Express JS](https://expressjs.com/pt-br/) :heavy_check_mark:
+- [Sequelize](https://sequelize.org/) :heavy_check_mark:
