@@ -1,4 +1,5 @@
 module.exports = {
+    // Variaveis de desenvolvimento
     development: {
         database: {
             host: 'localhost',
@@ -9,10 +10,11 @@ module.exports = {
             password: ''
         }
     },
+// variaveis em produção
     production: {
         database:{
             host: process.env.DB_HOST,
-            host: process.env.DB_PORT,
+            port: process.env.DB_PORT,
         }
     }
 }

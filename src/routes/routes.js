@@ -8,5 +8,8 @@ const UsuarioController = require('../controllers/usuarioController.js');
 // quando estiver na url /usuarios fazendo um post ele chama o metodo insert, se for get chama SearchAll e assim por diante
 router.post('/usuarios', UsuarioController.Insert);
 router.get('/usuarios', UsuarioController.SearchAll);
+router.get('/usuarios/:id', UsuarioController.SearchOne);
+router.put('/usuarios/:id', UsuarioController.Update);
+router.delete('/usuarios/:id', UsuarioController.Delete);
 
 module.exports = router;
