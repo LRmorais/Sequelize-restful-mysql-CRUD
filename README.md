@@ -38,3 +38,16 @@ $ npm install ou yarn install
 # Execute a aplicação
 $ npm index.js ou yarn index.js 
 ```
+##  Como contribuir 🤔
+1. Fork este repositório;
+2. Crie uma branch cok sua feature: **`git checkout -b my-feature`**;
+3. Comite suas mudanças: **`git commit -m 'feat: My new feature'`**;
+4. Suba as alterações para sua branch: **`git push origin my-feature`**.
+
+Após o merge de sua solicitação pull request, você pode excluir seu branch.
+
+Relate algum bug [here]().
+
+## 📝 License
+
+This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
