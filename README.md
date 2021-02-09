@@ -51,4 +51,4 @@ Relate algum bug [here](https://github.com/LRmorais/Sequelize-restfull-mysql-CRU
 
 ## 📝 License
 
-This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
+This project is under the MIT license. See the archive [LICENSE](https://github.com/LRmorais/Sequelize-restful-mysql-CRUD/blob/main/LICENSE) for more details.
