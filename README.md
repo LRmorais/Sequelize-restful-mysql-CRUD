@@ -47,7 +47,7 @@ $ npm index.js ou yarn index.js
 
 Após o merge de sua solicitação pull request, você pode excluir seu branch.
 
-Relate algum bug [here](https://github.com/LRmorais/Sequelize-restfull-mysql-CRUD/i).
+Relate algum bug [here](https://github.com/LRmorais/Sequelize-restful-mysql-CRUD/issues).
 
 ## 📝 License
 
