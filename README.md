@@ -28,10 +28,10 @@
 ### Como rodar a aplicação :arrow_forward:
 ```
 # No terminal, clone o projeto
-$ git clone https://github.com/LRmorais/crud-rest-api.git
+$ git clone https://github.com/LRmorais/Sequelize-restful-mysql-CRUD.git
 
 # Entre na pasta do projeto
-$ cd crud-rest-api
+$ cd Sequelize-restful-mysql-CRUD
 
 # Instale as dependências
 $ npm install ou yarn install
