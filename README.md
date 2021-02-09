@@ -2,7 +2,7 @@
 <img src= "https://miro.medium.com/max/768/1*gjA78w2_Q8lSNZAnTMScqA.png"/>
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=ExpressJS&message=framework&color=green&style=for-the-badge&logo=node.js" style="display: inline;"/>
-    <img src="https://img.shields.io/static/v1?label=Sequelize&message=framework&color=green&style=for-the-badge&logo=node.js" style="display: inline;"/>
+    <img src="https://img.shields.io/static/v1?label=Sequelize&message=ORM&color=green&style=for-the-badge&logo=node.js" style="display: inline;"/>
     <img src="https://img.shields.io/static/v1?label=MySQL&message=Database&color=blue&style=for-the-badge&logo=mysql" style="display: inline;"/>
 </p>
 
